@@ -49,7 +49,7 @@ The API returns current weather data including temperature, feels-like temperatu
 
 ### Data Extraction
 
-![Data Extracted](Week 7 - Data Pipelines and Automation/data_extraction.png)
+![Data Extracted](etl_images/data_extraction.png)
 
 ---
 
@@ -65,7 +65,7 @@ The API returns current weather data including temperature, feels-like temperatu
 
 ### Data Cleaning
 
-![Cleaned Data](Week 7 - Data Pipelines and Automation/data_cleaning.png)
+![Cleaned Data](etl_images/data_cleaning.png)
 
 ---
 
@@ -77,7 +77,7 @@ The API returns current weather data including temperature, feels-like temperatu
 
 ### Data Loading
 
-![Loaded Data](Week 7 - Data Pipelines and Automation/data_loading.png)
+![Loaded Data](etl_images/data_loading.png)
 
 ---
 
@@ -91,7 +91,7 @@ The API returns current weather data including temperature, feels-like temperatu
 
 ### Analysis
 
-![Analyzed Data](Week 7 - Data Pipelines and Automation/basic_analysis.png)
+![Analyzed Data](etl_images/basic_analysis.png)
 
 ---
 
