@@ -8,6 +8,12 @@ Throughout the internship, I gained hands-on experience in data analysis, busine
 
 ---
 
+## Certificate
+
+![Internship Certificate](./certificate/certificate.png)
+
+---
+
 ## About Me
 
 I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights that drive business decisions. Through this internship, I strengthened my analytical thinking, problem-solving abilities, and technical skills by working on real-world datasets and business scenarios.
